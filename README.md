@@ -1,6 +1,8 @@
 ### Olá! Sou a Inara Oliveira, seja bem-vindo!
 
-Aqui você vai encontrar um pouco da minha trajetória no mundo da programação  😀
+Dev Júnior em processo de evolução 😀
+- Trabalhando com JavaScript e suas bibliotecas.
+- Estudando Kotlin.
 
 ##
 
