@@ -2,7 +2,7 @@
 
 Dev Júnior em processo de evolução 😀
 - Trabalhando com JavaScript e suas bibliotecas.
-- Estudando Kotlin.
+
 
 ##
 
